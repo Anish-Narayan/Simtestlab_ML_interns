@@ -1,4 +1,5 @@
 a = 1
 b = 8
-d = 25
+d = 47
 z = 10
+fruits = ['apples','oranges','banana']
