@@ -2,3 +2,7 @@ a = 1
 b = 20
 d = 4
 z = 10
+b = 8
+d = 47
+z = 10
+fruits = ['apples','oranges','banana','pineapple']
